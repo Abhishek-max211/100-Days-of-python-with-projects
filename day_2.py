@@ -23,20 +23,27 @@ print("the Type of the value",type(a))
 # In Python type() function is used to identify the type of the datatype
 
 # 3. Float 
-bd=print(567.99)
+b=567.99
+print(b)
+print("The type is ",type(b))
 # In Python type() function is used to identify the type of the datatype
 
 # 4. Boolean
-d=print(True or False)
+d=(True or False)
+print(d)
+print("The type is ",type(d))
 # In Python type() function is used to identify the type of the datatype
 
 # Type Conversion
-p=print("123"+"223")
-print(type(a))
-n=print(int("123")+int("223"))
-print(type(a))
-ab=print(123+34.5)
-print(type(a))
+p=("123"+"223")
+print(p)
+print(type(p))
+n=int("123")+int("223")
+print(n)
+print(type(n))
+e=(123+34.5)
+print(e)
+print(type(e))
 print("Number of letters in your name"+" "+str(len(input("What is your nmae? "))))
 # In python predefined functions are used for type conversion
 
