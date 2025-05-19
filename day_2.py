@@ -73,7 +73,7 @@ print(round(c,2))
 name="Ahishek"
 Age=12
 marks=82.65
-print(f"My name is{name}")
+print(f"My name is {name}")
 print(f"I am {Age} years old")
 print(f"{marks} is my marks")
 print("Thank You for visiting")
