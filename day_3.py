@@ -64,7 +64,7 @@ if height>=120:
        print(f"Your total bill is ${bill}")
        print("Thank you for visiting!")
     else:
-       print(f"Your total bill is {bill}")
+       print(f"Your total bill is ${bill}")
        print("Thank you for visiting!")    
 else:
     print("Sorry You can not ride the rollercoastler!\n")
