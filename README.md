@@ -20,7 +20,7 @@ Here are some cool projects you'll find in this repo:
 
 ## 📸 Featured on LinkedIn
 
-I'm also sharing my daily learnings on [LinkedIn](https://www.linkedin.com/in/abhishek-pundir-469218260/) to stay accountable and connect with fellow learners. Come say hi! 👋
+I'm also sharing my daily learnings on [LinkedIn](https://www.linkedin.com/in/abhishek-pundir-334473314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to stay accountable and connect with fellow learners. Come say hi! 👋
 
 ---
 
@@ -38,7 +38,7 @@ I'm also sharing my daily learnings on [LinkedIn](https://www.linkedin.com/in/ab
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Abhishek Pundir](https://www.linkedin.com/in/abhishek-pundir-469218260/)
+- LinkedIn: [Abhishek Pundir](https://www.linkedin.com/in/abhishek-pundir-334473314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: [@Abhishek-max211](https://github.com/Abhishek-max211)
 
 ---
